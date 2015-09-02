@@ -1,0 +1,23 @@
+{
+    "name": "example",
+    "version": "1.0.0",
+    "description": "Testing POST request for Close.io",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node example.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/loganknecht/CloseIOPostRequest.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/loganknecht/CloseIOPostRequest/issues"
+    },
+    "homepage": "https://github.com/loganknecht/CloseIOPostRequest#readme",
+    "dependencies": {
+        "request": "^2.61.0"
+    }
+}
